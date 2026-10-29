@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Pull Requests"
+  short_description: "Create linked draft PRs for active changes"
+  default_prompt: "Use $pr-create to publish the active changes as linked draft pull requests."

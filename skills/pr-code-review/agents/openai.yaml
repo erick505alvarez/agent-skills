@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Code Review"
+  short_description: "Review pull requests with Linear context and gotcha searches."
+  default_prompt: "Review the current pull request with Linear context and gotcha searches."

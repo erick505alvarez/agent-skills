@@ -1,0 +1,3 @@
+interface:
+  display_name: "Tool Documentation"
+  short_description: "Ground agent tool documentation in repository contracts"

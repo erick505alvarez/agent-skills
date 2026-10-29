@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Personal friction logs stay local
+friction/
+
+# Superpowers working files
+.superpowers/
+
+# Transient skill outputs
+skills/pr-plan-review-comments/pr_comments.json
+skills/pr-plan-review-comments/pr_comments.err
